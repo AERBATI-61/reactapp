@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Rahile",
+      "surname": "Emin",
+      "salary": "500000",
+      "department": "Engineer ",
+      "id": "XkRNSFU"
+    },
+    {
+      "name": "Arafat",
+      "surname": "Emin",
+      "salary": "50000",
+      "department": "Engineer ",
+      "id": "lFBIycA"
+    },
+    {
+      "name": "Meryem",
+      "surname": "Emin",
+      "salary": "500000",
+      "department": "Computer Enginering",
+      "id": "2i_Lq5q"
+    },
+    {
+      "name": "Arafat",
+      "surname": "Emin",
+      "salary": "29999",
+      "department": "Engineer ",
+      "id": "jEbaXss"
+    }
+  ]
+}
